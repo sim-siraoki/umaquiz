@@ -1,0 +1,2 @@
+# umaquiz
+umamusume quiz bot
